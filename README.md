@@ -1,37 +1,12 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**Hrishikesh Korhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-AyushKanduri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushkanduri)](https://www.linkedin.com/in/ayushkanduri)  -->
-
 # Welcome! Happy to see you here&ensp;<img src="./wave.gif" width="37px" height="37px" />
 
-<!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
-<br />
+### Hi, I'm Hrishikesh Korhale, a passionate Full Stack Web Developer from Pune!
+- 🚀 I’m currently looking for opportunities as a MERN Stack Web Developer.
+- 🔭 I have 1.5 years of experience working with MongoDB, ExpressJS, ReactJS/NextJS, NodeJS.
+- 🌱 I’m continuously learning and building new projects in the MERN stack.
+- 👯 I’m eager to collaborate with others on exciting and innovative ideas.
+- ⚡ Fun fact: I enjoy connecting and socializing with new people.
 
-<!-- <a href="https://app.daily.dev/ayushkanduri">
-<img src="https://api.daily.dev/devcards/XYZ.png?r=zpj" width="400" alt="Ayush Kanduri's Dev Card" align="right"/>
-</a> -->
-
-### Hi, I'm Hrishikesh 𝗞orhale, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Pune!
-- 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.
-- 🔭 I’m currently working with MongoDB, ExpressJS, ReactJS, NodeJS.
-- 🌱 I’m currently learning MERN Stack & building Projects in public.
-- 👯 I’m looking to collaborate with people with Amazing Ideas.
-- ⚡ Fun fact: I love connecting & socializing with new people.
 <br />
 
 ## 📞 Connect with me
@@ -47,4 +22,3 @@ Here are some ideas to get you started:
 <br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
-
