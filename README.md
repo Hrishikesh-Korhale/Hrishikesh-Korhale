@@ -17,7 +17,7 @@
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Hrishikesh-Korhale)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/Hrishikesh-Korhale/)
 
-<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://www.hrishikesh.tech/)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://www.hrishikesh.tech/assets/Hrishikesh%20Korhale%20-%20CV.pdf) </span>
+<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://hrishikorhale.netlify.app/)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://www.hrishikesh.tech/assets/Hrishikesh%20Korhale%20-%20CV.pdf) </span>
 
 <br />
 
