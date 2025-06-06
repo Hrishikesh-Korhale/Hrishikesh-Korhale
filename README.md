@@ -1,11 +1,29 @@
-# Welcome! Happy to see you here&ensp;<img src="./wave.gif" width="37px" height="37px" />
+# Welcome! Happy to see you here&nbsp;<img src="./wave.gif" width="37px" height="37px" />
 
 ### Hi, I'm Hrishikesh Korhale, a passionate Full Stack Web Developer from Pune!
-- 🚀 I’m currently looking for opportunities as a MERN Stack Web Developer.
-- 🔭 I have 2 years of experience working with MongoDB, ExpressJS, ReactJS/NextJS, NodeJS.
-- 🌱 I’m continuously learning and building new projects in the MERN stack.
-- 👯 I’m eager to collaborate with others on exciting and innovative ideas.
+- 🚀 I’m currently looking for new opportunities as a MERN Stack Web Developer.
+- 💼 Recently worked at [Uphomes](https://in.linkedin.com/company/dezinexpert?trk=public_profile_experience-item_profile-section-card_subtitle-click), where I contributed to DesignExpert.AI as a Full Stack Developer.
+- 🔭 I have 2 years of experience with MongoDB, ExpressJS, ReactJS/NextJS, and NodeJS.
+- 🌱 Continuously learning and building new projects like [AI Interview Mocker](https://github.com/Hrishikesh-Korhale/ai-interview-mocker) and [Employee Management System](https://github.com/Hrishikesh-Korhale/Employee-Management-System-in-Java).
+- 👯 Eager to collaborate on exciting and innovative MERN stack-based products.
 - ⚡ Fun fact: I enjoy connecting and socializing with new people.
+
+<br />
+
+## 🛠 Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS, Material UI, HTML5, CSS3  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB, MySQL, PostgreSQL  
+- **Tools:** Git, GitHub, Docker, Postman  
+- **Languages:** JavaScript (ES6+), TypeScript, C/C++, Java, Python  
+- **Other:** JWT, WebSockets, AI/ML Tools
+
+<br />
+
+## 📌 Featured Projects
+- 🚀 [AI Interview Mocker](https://github.com/Hrishikesh-Korhale/ai-interview-mocker) – Gemini API powered platform for mock interviews  
+- 🛒 [E-commerce Website](https://flipkart-git-master-hrishikesh-korhales-projects.vercel.app/) – Auth0-based user system with full MERN stack  
+- 🧑‍💼 [Employee Management System](https://github.com/Hrishikesh-Korhale/Employee-Management-System-in-Java) – Complete admin panel for handling employee records
 
 <br />
 
