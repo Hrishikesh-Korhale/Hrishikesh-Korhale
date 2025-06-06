@@ -2,7 +2,7 @@
 
 ### Hi, I'm Hrishikesh Korhale, a passionate Full Stack Web Developer from Pune!
 - 🚀 I’m currently looking for opportunities as a MERN Stack Web Developer.
-- 🔭 I have 1.5 years of experience working with MongoDB, ExpressJS, ReactJS/NextJS, NodeJS.
+- 🔭 I have 2 years of experience working with MongoDB, ExpressJS, ReactJS/NextJS, NodeJS.
 - 🌱 I’m continuously learning and building new projects in the MERN stack.
 - 👯 I’m eager to collaborate with others on exciting and innovative ideas.
 - ⚡ Fun fact: I enjoy connecting and socializing with new people.
